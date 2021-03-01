@@ -5,7 +5,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-banco-de-dados">Banco de Dados</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-saiba-mais">Saiba mais</a>
+  <a href="#%EF%B8%8F-saiba-mais">Saiba mais</a>
 </p>
 
 <p align="center">
