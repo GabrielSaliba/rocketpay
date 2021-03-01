@@ -22,6 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Phoenix](https://github.com/phoenixframework/phoenix)
 - [Ecto](https://github.com/elixir-ecto/ecto)
 - [ExUnit](https://github.com/elixir-lang/elixir/blob/master/lib/ex_unit/lib/ex_unit.ex)
+- [Docker](https://github.com/docker/cli)
 
 ## 💻 Projeto
 
