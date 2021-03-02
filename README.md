@@ -28,6 +28,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Rocketpay é uma aplicação que simula uma API de pagamentos sendo possível criar usuários e contas, realizar depósitos, saques e visualizar saldo da conta.
 
+A documentação da API pode ser encontrada clicando [aqui](https://documenter.getpostman.com/view/11824356/TWDfDYyn).
+
 ## 🚀 Como executar
 
 Para iniciar o seu servidor Phoenix:
